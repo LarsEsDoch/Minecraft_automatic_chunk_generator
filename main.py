@@ -60,7 +60,7 @@ if mode == 1:
         toggle = not toggle
 else:
     step = 500
-    delay = 1
+    delay = 40
 
     total_points = 0
     current_point = 0
